@@ -25,7 +25,7 @@ END
 
 -- Zadanie 2. Napisz procedure, ktora wyciagnie ucznia po imieniu i nazwisku
 
-CREATE PROCEDURE
+CREATE PROCEDURE WyszukajUcznia
 
 @imie varchar(50) = NULL
 @nazwisko varchar(50) = NULL
