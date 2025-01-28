@@ -12,7 +12,7 @@ WHERE imie = 'Draco' AND nazwisko = 'Malfoy'
 -- Usun Draco Malfoya z listy Uczniow.
 
 DELETE FROM Uczniowie
-WHERE imie = 'Draco' AND nazwisko = Malfoy
+WHERE imie = 'Draco' AND nazwisko = 'Malfoy'
 
 -- Wszystkim uczniom, ktorzy sa w domu Gryffindor i maja status krwi mugolak zmien status krwi na brudnokrwisty.
 
